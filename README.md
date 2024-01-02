@@ -48,6 +48,9 @@ synthetic_df = pd.DataFrame(synthetic_customer_data)
 In this repository, there are three scripts to create synthetic data with Python and Faker, for three different use cases.
 
 - **Customer Data**: Creates a table of synthetic customer data that includes Names, Addresses, Emails, Phone Numbers, and Date of Birth. It's similar to the example above.
+
+- **Entity Resolution Data**: Generates two different lists of entities, with some overlap. Good for simulating entity resolution scenarios.
+
   
 - **Complaint Data**: Creates a data set that includes caller data, like Name and Phone Number. The other fields generate random data related to hotline complaints. Can be edited or expanded to fit any kind of survey or self-reporting scenario. There is additional functionality to build out graphs to simulate EDA.
 
@@ -56,6 +59,3 @@ In this repository, there are three scripts to create synthetic data with Python
 ![graph-2](https://github.com/christine-egan42/synthetic-data/assets/116017015/9a4a42f5-82bc-4979-b6a5-03a8b1079290)
 
 ![graph-3](https://github.com/christine-egan42/synthetic-data/assets/116017015/499554bf-cbec-4afc-89f4-0da3c2411fba)
-
-
-- **Entity Resolution Data**: Generates two different lists of entities, with some overlap. Good for simulating entity resolution scenarios.
