@@ -1,7 +1,4 @@
-# synthetic-data
-**Create Synthetic Data with Faker**
-
-**Introduction:**
+**Create Synthetic Data with Python and Faker**
 The scarcity of high-quality, diverse datasets can be a significant roadblock. Synthetic data, which is data that is artificially generated to mimic real-world scenarios, can be a solution to this challenge. 
 
 **The Importance of Synthetic Data:**
